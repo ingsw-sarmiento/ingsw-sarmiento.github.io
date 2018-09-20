@@ -6,7 +6,7 @@ tags: [Git, VCS]
 
 Existen varias formas posibles de trabajar en equipo con Git, acá vamos a presentar una que es bastante simple pero también muy poderosa, normalmente conocida como [GitHub flow](https://guides.github.com/introduction/flow/) o _feature branch flow_.
 
-![GitHub flow](../assets/img/posts/github-flow.png)
+![GitHub flow](/assets/img/posts/github-flow.png)
 
 Básicamente, se guia por tres principios:
 1. El código que está en la rama **master** siempre tiene que funcionar.
