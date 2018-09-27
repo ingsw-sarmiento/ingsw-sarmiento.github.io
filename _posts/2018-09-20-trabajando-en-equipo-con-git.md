@@ -22,6 +22,7 @@ Adicionalmente, podríamos configurar un [servidor de integración continua](htt
 
 ### Recursos adicionales
 
-* Artículo de Martin Fowler sobre integración continua (en inglés): https://www.martinfowler.com/articles/continuousIntegration.html
+* Cómo configurar la subida por SSH en GitHub: <https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/>
+* Artículo de Martin Fowler sobre integración continua (en inglés): <https://www.martinfowler.com/articles/continuousIntegration.html>
 * Ejemplos de otros flujos de trabajo posibles (en inglés): <https://www.atlassian.com/git/tutorials/comparing-workflows>
 * Tutorial interactivo sobre ramas (_branches_) en Git: <https://learngitbranching.js.org/>.
