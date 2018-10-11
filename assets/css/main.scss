@@ -2,3 +2,34 @@
 ---
 
 @import "type-on-strap";
+
+.planificacion {
+  position: relative;
+  z-index: 1;
+}
+
+.planificacion-oculto {
+  position: absolute;
+  width: 100%;
+  height: 30px;
+  background: #fff;
+  z-index: 999;
+  display: block;
+  color: #fff;
+  left: 0px;
+}
+
+.planificacion-header {
+  top: 0px;
+}
+
+.planificacion-footer {
+  bottom: 0px;
+}
+
+
+.planificacion-frame {
+  width: 100%;
+  height: 550px;
+  border: none;
+}
